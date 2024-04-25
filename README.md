@@ -1,4 +1,7 @@
-Travel site
+
+                             Travel site
+
+                
 Home page - for a travel site in Israel. On the website you can find details about interesting places in Israel 
 ![11](https://github.com/sarah3257/Travel-site/assets/144917462/c9fecd68-8555-466c-a21f-1a534ff1ba3d)
 ![22](https://github.com/sarah3257/Travel-site/assets/144917462/c211b464-5630-4909-8ebc-619cca7353c4)
